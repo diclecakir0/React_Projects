@@ -9,14 +9,14 @@
 
 <li>2- Get the books stored in the books state and list them using the map method (display on the screen). If the state is empty, display 'No books added yet' on the screen. Pass the book information as a prop to the BookCard component. The BookCard component should display all the details related to the book</li>
 
-<li>Delete Book: When the delete button of a book is clicked, the ID of the book to be deleted should be passed to the function. The function should take the received ID as a parameter, filter out the objects that do not have the matching ID, and store them in a new array. Then, update the state with the resulting array</li>
+<li>3- Delete Book: When the delete button of a book is clicked, the ID of the book to be deleted should be passed to the function. The function should take the received ID as a parameter, filter out the objects that do not have the matching ID, and store them in a new array. Then, update the state with the resulting array</li>
 
-<li>Mark the Book as Read;
+<li>4- Mark the Book as Read;
 Send the book to the function when the 'Read' button is clicked, toggle the isRead value of the book, find the element in the array that needs to be updated, remove that element and add the updated one in its place.
 </li>
 
 <li>
-Perform the editing operation;
+5- Perform the editing operation;
 - When the 'Edit' button is clicked, a modal should appear on the screen and pass the book to be edited to app.js (as editItem)
 - In the modal: There is an input field to change the book's name, and every time the input changes, it updates the editItem variable and passes it to app.js.
 - Cancel Button > Closes the modal
