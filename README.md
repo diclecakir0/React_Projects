@@ -26,7 +26,4 @@ Send the book to the function when the 'Read' button is clicked, toggle the isRe
 </ul>
 
 ![CRUD_APP](video.gif)
-
 # React_Projects
-
-# ReactProjects
