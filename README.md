@@ -24,5 +24,9 @@ Send the book to the function when the 'Read' button is clicked, toggle the isRe
 - The function removes the old element from the array and replaces it with the new one
 </li>
 </ul>
+
+![CRUD_APP](video.gif)
+
 # React_Projects
+
 # ReactProjects
